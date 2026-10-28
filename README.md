@@ -4,7 +4,20 @@
 
 I'm **Edward Aming, CTO at Smaroot (慧根智研)**, a software development company based in Beijing, China. We build our own automation products and help businesses improve applications, connect systems and turn manual handoffs into dependable workflows.
 
-**[Self-developed products & engineering](ENGINEERING.md) · [Runnable components](https://github.com/smaroot-tech-edward/smaroot-components) · [Contact Edward](CONTACT.md)**
+**[Client projects](https://github.com/smaroot-tech-edward/smaroot-projects) · [Self-developed products & engineering](ENGINEERING.md) · [Runnable components](https://github.com/smaroot-tech-edward/smaroot-components) · [Contact Edward](CONTACT.md)**
+
+## Custom software delivery / 客户定制开发
+
+| Client workflow | Delivered scope | Read the case |
+|---|---|---|
+| **Community & assisted matching** | WeChat mini program, backend, moderation and administrator audit | [Authorized anonymized delivery](https://github.com/smaroot-tech-edward/smaroot-projects/blob/main/community-service.md) |
+| **Vehicle battery service** | Customer/vehicle records, agreements, deposit status, installation, service terms and return appointments | [Authorized anonymized delivery](https://github.com/smaroot-tech-edward/smaroot-projects/blob/main/battery-service.md) |
+
+The [project library](https://github.com/smaroot-tech-edward/smaroot-projects) also documents our **website intake and publishing systems**, plus **CRM and multilingual website interface studies**. Each page explains the business problem, workflow, engineering considerations, evidence type and relevant scope, with public images.
+
+## Latest public update
+
+**2026-10-28:** Added six project writeups, including two authorized anonymized customer deliveries, eight presentation images and workflow/acceptance notes. [Read the update log](https://github.com/smaroot-tech-edward/smaroot-projects/blob/main/UPDATES.md).
 
 ## What we build ourselves
 
